@@ -1,0 +1,7 @@
+# py-env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# generated site (rebuild with: python3 build.py)
+site/
+.build-check/
