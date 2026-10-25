@@ -1,7 +1,13 @@
-# py-env
-__pycache__/
-*.py[cod]
-.pytest_cache/
 # generated site (rebuild with: python3 build.py)
-site/
+# py-env
+*.py[cod]
+*.pyc
 .build-check/
+.env
+.env.*
+.pytest_cache/
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+site/
